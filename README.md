@@ -1,7 +1,5 @@
 # AWS Infra
 
-Assignment #09
-
 ## Terraform Deployment for Cloud Infrastructure
 
 This Terraform deployment code creates a network infrastructure on a cloud provider using five modules. The code creates a VPC, public and private subnets, an internet gateway, and route tables for the subnets. The deployment code is highly reusable and can be customized to fit different cloud provider configurations.
